@@ -10,12 +10,7 @@ int SecondsInMinute()
 	return 60;
 }
 
-(int, int) LaterInYear(int d1, int m1, int d2, int m2)
-{
-	//if (m1 > m2)
-		return d1, m1;
 
-}
 int main()
 {
 	assert(IsLeapYear(2000));
